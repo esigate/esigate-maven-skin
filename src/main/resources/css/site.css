@@ -84,18 +84,29 @@ h3 {
 #navcolumn li {
 	background:url(../images/puce.gif) center left no-repeat;
 	font-size:0.9em;
+    text-indent: 0;
 }
+#navcolumn li.none {
+    text-indent: 0;
+}
+
 #navcolumn li.expanded {
 	background-image: none;
+}
+
+#navcolumn li.none strong{
+	padding-left:0px;
+    background-image: none;
+}
+
+#navcolumn li.expanded strong {
 	padding-left:0px;
 }
-#navcolumn li.expanded strong {
-	background:url(../images/expanded.gif) no-repeat 0 3px;
-	padding-left:15px;
-}
+
 #navcolumn li.expanded ul li.none {
 	margin-left:10px;
 }
+
 #navcolumn h5 {
 	background-image:url(../images/bg_nav.gif);
 	background-position:left bottom;
