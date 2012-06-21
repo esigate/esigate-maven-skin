@@ -3,7 +3,7 @@
 	<groupId>org.esigate.maven</groupId>
 	<artifactId>esigate-maven-skin</artifactId>
 	<name>esigate-maven-skin</name>
-    <version>3.5-SNAPSHOT</version>
+    <version>3.5</version>
 	<description>ESIGate Site Skin</description>
 
     <parent>
@@ -13,9 +13,9 @@
     </parent>
 
 	<scm>
-		<connection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/trunk/esigate-maven-skin</connection>
-		<developerConnection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/trunk/esigate-maven-skin</developerConnection>
-		<url>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/trunk/esigate-maven-skin</url>
+		<connection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/tags/esigate-maven-skin-3.5</connection>
+		<developerConnection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/tags/esigate-maven-skin-3.5</developerConnection>
+		<url>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/tags/esigate-maven-skin-3.5</url>
     </scm>
 
 	<profiles>
