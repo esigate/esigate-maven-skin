@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.esigate.maven</groupId>
 	<artifactId>esigate-maven-skin</artifactId>
 	<name>esigate-maven-skin</name>
-	<version>3.6-SNAPSHOT</version>
+	<version>3.6</version>
 	<description>ESIGate Site Skin</description>
 
 	<parent>
@@ -14,9 +13,9 @@
 	</parent>
 
 	<scm>
-		<connection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/trunk/esigate-maven-skin</connection>
-		<developerConnection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/trunk/esigate-maven-skin</developerConnection>
-		<url>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/trunk/esigate-maven-skin</url>
+		<connection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/tags/esigate-maven-skin-3.6</connection>
+		<developerConnection>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/tags/esigate-maven-skin-3.6</developerConnection>
+		<url>scm:svn:https://webassembletool.svn.sourceforge.net/svnroot/webassembletool/tools/tags/esigate-maven-skin-3.6</url>
 	</scm>
 	
 	<build>
